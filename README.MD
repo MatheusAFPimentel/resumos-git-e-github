@@ -9,6 +9,9 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 
 ### Gravando Alterações no Repositório Local
 ```
-git init
+git init -> inicia repositório
+git log -> estado dos commits
+git reflog -> estado dos commits mais detalhados
+git reset -> retorna para um commit anterior e desfaz os commits comitados anteriormente.
 ```
 
