@@ -32,3 +32,8 @@ git pull: para atualizar seu repositorio local com o remoto
 Em caso de conflito no momento do push, definir qual o código mais atualizado e se adequar a essa informação.
 ```
 
+### Material sobre contribuicao em projetos opensource
+```
+https://github.com/elidianaandrade/dio-lab-open-source
+```
+
